@@ -4,6 +4,6 @@ slug  : dual-descent
 seal  : ad8d1a44ed83f3c7746d308980417fedab59c058d1428e61b31c2375678bf3d5
 prev  : 29ae05d362375d4d6bc45784c5629fca760e9998c3b2399e12a83f962b2299f7
 link  : 381827ffaf793aebfaf63cb4a3e02f0bda3109a1d7620275f38ed115f594ab66
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
